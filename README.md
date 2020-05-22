@@ -1,4 +1,4 @@
-# example
+# example github status checks
 
 Example Maven project generated using `maven-archetype-quickstart`
 
